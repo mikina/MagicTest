@@ -1,0 +1,2 @@
+rm -rf MagicTest.xcodeproj
+rm -rf .build Package.resolved

@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftImageMagick",
+        "repositoryURL": "https://github.com/mikina/SwiftImageMagick",
+        "state": {
+          "branch": "master",
+          "revision": "58cf120c56fad4b4b3924cbb6c91f040b0122d6a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
